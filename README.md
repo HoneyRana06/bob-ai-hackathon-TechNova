@@ -1,4 +1,6 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [Drug Safety Signal Detector & Regulatory]
+Submission Readiness Checker
+
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +10,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
+| **Team Name** | [TechNova] |
 | **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Lead** | [Honey Rana] — [24bph088@charusat.edu.in] |
+| **Members** | [Laksh Patel], [Yatri Patel], [Jeet Patel] |
 
 ---
 
@@ -19,7 +21,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Pharmaceutical companies face challenges in quickly identifying potential drug-safety signals from large volumes of adverse-event reports and ensuring that regulatory dossiers are complete before submission. Pharmacovigilance and regulatory affairs professionals experience this problem because manual analysis and dossier checking can be time-consuming, while missed safety signals or incomplete CTD sections can lead to delays in regulatory submissions.]
 
 ---
 
@@ -27,17 +29,17 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[We built MediSafe AI, an AI-powered medicine interaction checker that allows users to select medicines and quickly identify potential interactions with simple safety information and recommendations. It uses a medicine interaction database to analyse selected medicines and present easy-to-understand results, helping users become more aware of potential medication risks before making changes to their treatment..]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [Medicine Interaction Checker — Select two medicines and check for potential interactions quickly.]
+- **Feature 2:** [Instant Safety Results — Provides interaction information immediately using the integrated demo medicine database.]
+- **Feature 3:** [Easy-to-Understand Recommendations — Presents potential risks along with safety advice and encourages consultation with a qualified healthcare professional.]
+- **Feature 4:** [Simple 3-Step Workflow — Select medicines → run the safety check → understand the results.]
+- **Feature 5:** [User-Friendly Safety Interface — Clean, responsive interface designed to make medicine-safety information easier to understand. ]
 
 ---
 
@@ -45,11 +47,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [HTML5, CSS3, JavaScript] |
+| **Frameworks** | [None — Vanilla JavaScript] |
+| **IBM Technologies** | [IBM Bob, IBM Cloud] |
+| **Databases** | [Demo Medicine Interaction Database] |
+| **Other** | [GitHub, GitHub Actions] |
 
 ---
 
@@ -108,14 +110,13 @@ cp .env.example .env
 
 > Be honest — judges appreciate transparency over overclaiming.
 
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
+- [Limitation 1: Demo Database: The current version uses a limited demo medicine-interaction database and does not cover all available medicines or interactions.]
+- [Limitation 2: Frontend Prototype: The application is currently a frontend demonstration and is not connected to a production-grade clinical database or backend.]
+- [Limitation 3: No Real-Time Clinical Data: The application does not retrieve real-time patient-specific or clinical data.]
 
 ---
 
 ## 🏅 What We're Most Proud Of
-
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
+[We are most proud of turning a complex medicine-safety problem into a simple, user-friendly interaction-checking tool that can provide understandable safety information within a few steps. The strongest part of our submission is the combination of easy medicine selection, quick interaction results, and clear safety recommendations, making the concept accessible to users without requiring technical or medical expertise.]
 
 ---
