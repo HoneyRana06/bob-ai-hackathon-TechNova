@@ -58,7 +58,7 @@ Submission Readiness Checker
 ## 📁 Repository Structure
 
 ```
-├── scr/ README.md                 # All source code
+├── scr/                # All source code
 ├── docs/                 # Written documentation
 │   ├── problem-statement.md
 │   ├── solution-overview.md
