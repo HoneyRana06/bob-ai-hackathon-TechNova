@@ -75,7 +75,7 @@ Submission Readiness Checker
 
 ## ⚡ How to Run
 
-> **Copy these exact steps from your [`docs/setup-guide.md`](scr/docs/setup-guide.md)**
+> **Copy these exact steps from your [`docs/setup-guide.md`](scr/README.md)**
 
 ```bash
 # 1. Clone the repo
