@@ -99,10 +99,10 @@ cp .env.example .env
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video | [See demo/demo-video-link.txt](scr/demo/demo-video-link.txt) |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](scr/demo/live-demo-url.txt) |
-| 🖼️ Screenshots | [See demo/screenshots/](scr/demo/screenshots/) |
-| 📊 Presentation | [See presentation/slides.pdf](scr/presentation/) |
+| 📹 Demo Video | [See demo/demo-video-link.txt](demo/demo-video-link.txt) |
+| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
+| 🖼️ Screenshots | [See demo/screenshots/](demo/screenshots/) |
+| 📊 Presentation | [See presentation/slides.pdf](presentation/) |
 
 ---
 
